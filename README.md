@@ -4,4 +4,3 @@
 
 ☁️ My long-term goal is to specialize in Cloud Security, securing cloud infrastructures and services on AWS.
 
-🚀 Always learning, building labs, and growing my cybersecurity skills.
