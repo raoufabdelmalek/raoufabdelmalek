@@ -1,6 +1,7 @@
-# Hi there 👋
+Hi there 👋
 
-Cybersecurity student with a passion for Blue Team operations, SOC analysis, and defensive security.
+Cybersecurity student passionate about defensive security, Blue Team operations, and SOC analysis.
 
-My long-term goal is to specialize in Cloud Security, securing cloud infrastructures and services on AWS.
+Currently developing practical skills in threat detection, incident response, and security monitoring, with a growing interest in embedded systems, firmware security, and hardware-level cybersecurity.
 
+My long-term goal is to bridge the gap between cybersecurity and embedded systems security.
